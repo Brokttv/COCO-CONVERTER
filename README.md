@@ -7,7 +7,7 @@ This project provides a Python script to convert datasets (organized as folders 
 Expected workflow: 
 
 <p align="center">
-  <img src="deepseek_mermaid_20250723_c2e94c.png" width="280"/>
+  <img src="deepseek_mermaid_20250723_c2e94c.png" width="200"/>
 </p>
 
 

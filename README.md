@@ -2,7 +2,7 @@
 
 # Converting Data to COCO Dataset-like Format
 
-This project provides a Python script to convert datasets (organized as folders or CSV files) into the COCO annotation format, with optional YOLO-based object detection for generating bounding box annotations.
+This project provides a Python script to convert datasets (organized as folders or CSV files) into the COCO annotation format, with YOLO-based object detection for generating bounding box annotations.
 
 Expected workflow: 
 

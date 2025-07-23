@@ -1,7 +1,9 @@
 # COCO-CONVERTER
 
 
-![COCO Converter Workflow](deepseek_mermaid_20250723_c2e94c.png)
+<img src="deepseek_mermaid_20250723_c2e94c.png" width="500"/>
+
+
 
 # COCO Converter
 

@@ -26,6 +26,14 @@ This project provides a Python script to convert datasets (organized as folders 
 - YOLOv5 weights (e.g., `yolov5s.pt`) 
 
 ---
+## Setup
+
+Install the required Python packages using:
+
+   
+    
+    pip install -r requirements.txt
+---
 
 ## Usage
 

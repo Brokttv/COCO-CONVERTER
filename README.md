@@ -23,7 +23,7 @@ This project provides a Python script to convert datasets (organized as folders 
 - torchvision
 - pandas
 - PIL (Pillow)
-- YOLOv5 weights (e.g., `yolov5s.pt`) — make sure to have this file available or modify the script accordingly.
+- YOLOv5 weights (e.g., `yolov5s.pt`) 
 
 ---
 

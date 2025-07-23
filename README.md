@@ -26,6 +26,11 @@ This project provides a Python script to convert datasets (organized as folders 
 - YOLOv5 weights (e.g., `yolov5s.pt`) 
 
 ---
+## Download YOLOv5 Weights
+To run YOLOv5 detection, you need the yolov5s.pt weights file. Download it using this command:
+     
+     wget https://github.com/ultralytics/yolov5/releases/download/v6.0/yolov5s.pt
+
 ## Setup
 
 Install the required Python packages using:

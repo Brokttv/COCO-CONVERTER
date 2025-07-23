@@ -1,5 +1,8 @@
 # COCO-CONVERTER
 
+
+![COCO Converter Workflow](deepseek_mermaid_20250723_c2e94c.png)
+
 # COCO Converter
 
 This project provides a Python script to convert datasets (organized as folders or CSV files) into the COCO annotation format, with optional YOLO-based object detection for generating bounding box annotations.
